@@ -1,0 +1,309 @@
+/* laptop/desktop */
+ @media (max-width: 1199px){
+    .left-area h1 {
+    font-size: 35px;
+}
+.left-area p {
+    font-size: 20px;
+    }
+    .features h2 {
+    margin-top: 35px;
+    margin-bottom: 40px;
+    font-size: 38px;
+}
+.features-columns ul li {
+    color: #383131;
+    font-size: 17px;
+}
+.pricing-pans h1 {
+    font-size: 25px;
+}
+.pricing-pans p {
+    font-size: 14px;
+    }
+}
+.navbar-nav{
+         display: flex;
+         flex-direction: row;
+         padding-top: 10px;
+         justify-content: flex-end;
+    }
+    .navbar-nav .nav-item .nav-link {
+
+/* laptop/desktop */
+/* large device */
+
+padding: 8px 10px;
+}
+ @media (max-width: 991px){
+    
+    .top-nav {
+    margin-bottom: 5px;
+    }
+    .banner-section {
+    margin-top: 10px;
+   }
+   .left-area h1 {
+    font-size: 30px;
+}
+.features h2 {
+    margin-bottom: 36px;
+    font-size: 38px;
+ }
+ .left-area p {
+    font-size: 18px;
+}
+.left-area p {
+    
+    padding: 10px 16px;
+}
+ .pricing-pans ul li {
+    font-size: 15px;
+}
+.features h2 {
+    margin-bottom: 25px;
+    font-size: 30px;
+}
+.features span {
+    margin-bottom: 15px;
+}
+.features ul li {
+    font-size: 16px;
+}
+.features-columns h3 {
+    font-size: 30px;
+}
+.top-header ul li a:hover {
+    padding: 3px 8px 3px 4px;
+}
+.features-columns ul li {
+ font-size: 16px;
+}
+.pricing-pans h1 {
+    font-size: 23px;
+}
+.pricing-pans {
+    margin: 80px 0px;
+    padding: 4px;
+}
+.display-image .search-icon {
+    margin-bottom: 16px;
+}
+.testimonial-heading h2 {
+    font-size: 30px;
+}
+.app-features h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.app-features .box {
+    margin: 30px 5px;
+    }
+    .app-features p {
+    font-size: 16px;
+    padding: 10px 5px;
+    margin: 10px 8px;
+}
+.upper-footer-area img {
+    margin: 30px 0px;
+    width: 170px;
+}
+.features-columns ul li {
+    font-size: 17px;
+}
+.lower-footer-area p {
+    margin: 14px 14px;
+    font-size: 15px;
+    color: #fffffff5;
+}
+.lower-footer-area h4 {
+    margin: 6px 10px 6px 12px;
+    font-size: 16px;
+    }
+    .top-header ul li a {
+  padding: 3px 8px 3px 4px;
+    font-size: 14px;
+}
+.form-control {
+    padding: 0.375rem .75rem;
+    font-size: 14px;
+    }
+    .btn {
+    padding: 6px 12px;
+    font-size: 14px;
+}
+}
+ /* large device */
+ /* medium device*/
+ @media (max-width: 767px){
+    .top-header ul li a:hover {
+    padding: 3px 8px 3px 4px;
+    font-size: 13px;
+
+}.top-header ul li a {
+    padding: 3px 8px 3px 4px;
+    font-size: 13px;
+}
+.left-area h1 {
+    font-size: 28px;
+}
+.left-area p {
+    font-size: 17px;
+}
+.features h2 {
+  font-size: 28px;
+}
+.features ul li {
+    font-size: 15px;
+}
+.features-columns ul li {
+    font-size: 15px;
+}
+.features-columns h3 {
+    font-size: 28px;
+}
+.pricing-pans p {
+    font-size: 15px;
+}
+.pricing-pans img {
+  height: 50px;
+    width: 50px;
+}
+.pricing-pans h1 {
+    font-size: 22px;
+    margin: 18px 0px 18px 0px;
+}
+
+.display-image span {
+    font-size: 28px;
+}
+.top-header ul li a {
+    padding: 3px 2px 3px 4px;
+    font-size: 14px;
+}
+.top-header ul li a:hover {
+    padding: 3px 2px 3px 7px;
+    font-size: 14px;
+}
+.display-image h2 {
+    font-size: 26px;
+}
+.search-icon i {
+    font-size: 40px;
+}
+.testimonial-heading h2 {
+    font-size: 28px;
+}
+.app-features h2 {
+    font-size: 26px;
+}
+.upper-footer-area p {
+    font-size: 15px;
+}
+.lower-footer-area p {
+    margin: 5px 7px;
+    font-size: 13px;
+}
+.lower-footer-area h4 {
+    margin: 6px 8px 6px 8px;
+    font-size: 14px;
+}
+
+.btn {
+    padding: 6px 12px;
+    font-size: 14px;
+    margin: 0px 0px;
+}
+ }
+ /* medium device*/
+  /* small/mobile device*/
+ }
+@media (max-width: 575px){
+   .left-area h1 {
+    font-size: 24px;
+}
+.left-area p {
+    font-size: 15px;
+}
+.features h2 {
+    font-size: 24px;
+}
+.pricing-pans i {
+    color: #ffa303;
+    font-size: 13px;
+}
+.pricing-pans p {
+    margin: 15px 0px;
+    font-size: 15px;
+}
+.features-columns .features-box {
+     padding: 0;
+}
+.features ul li {
+    font-size: 13px;
+}
+.features-columns h3 {
+    font-size: 22px;
+}
+.features-columns ul li {
+    font-size: 14px;
+}
+.display-image span {
+    font-size: 26px;
+}
+.display-image h2 {
+    font-size: 23px;
+}
+.testimonial-heading h2 {
+    font-size: 24px;
+}
+.app-features h2 {
+    font-size: 24px;
+}
+.upper-footer-area h4 {
+    font-size: 24px;
+}
+.upper-footer-area p {
+    font-size: 14px;
+}
+.lower-footer-area ul li {
+    font-size: 11px;
+}
+.lower-footer-area h4 {
+    margin: 6px 2px 6px 2px;
+    }
+.navbar-nav .nav-item .nav-link {
+    font-size: 12px;
+    background-color: #65656512;
+
+}
+
+.top-header ul li a {
+    color: #ffa303;
+    padding: 3px 2px 3px 7px;
+    font-size: 14px;
+}
+.top-header ul li a:hover {
+    color: #ece7df;
+    padding: 3px 2px 3px 7px;
+    font-size: 14px;
+}
+.btn {
+    padding: 6px 3px;
+    font-size: 14px;
+    margin: 10px 0px;
+}
+}
+ /* small/mobile device*/
+@media (max-width: 535px){
+    .navbar-nav .nav-item .nav-link {
+    font-size: 13px;
+    background-color: #65656500;
+}
+.navbar-nav .nav-item .nav-link:hover {
+    font-size: 13px;
+    }
+.banner-section .left-area {
+    padding: 4px 10px;
+}
+}
